@@ -24,7 +24,7 @@
 
 - <h3>🛢 Databases:</h3>
 
-| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60">](https://www.mysql.com/) | [<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="microsoft sql server" width="60" height="60">](https://www.microsoft.com/en-us/sql-server) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60">](https://www.mongodb.com/)
+| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60">](https://www.mysql.com/) | [<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="microsoft sql server" width="60" height="60">](https://www.microsoft.com/en-us/sql-server) |
 |---|---|---|
 
 - <h3>👨‍💻 Programming Languages:</h3>
